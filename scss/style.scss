@@ -177,6 +177,12 @@ $border: #dedede;
 
 .video{
     
+    &__title{
+        font-size: 30px;
+        color: #181e4b;
+        text-align: center;
+        margin-bottom: 20px;
+    }
 }
 
 .footer{
